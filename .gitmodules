@@ -1,0 +1,3 @@
+[submodule "devopsIQ"]
+	path = devopsIQ
+	url = https://github.com/vistasunil/devopsIQ.git
